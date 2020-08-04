@@ -1,16 +1,16 @@
-### Hi there 👋
+# Sandro Carvalho
 
-<!--
-**sandrocarvalho10/sandrocarvalho10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+Sou apaixonado por aprender.
+Sou um Web Designer :computer:
+Aprendiz de Desenvolvedor FullStack :telescope:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :high_brightness:  &nbsp; Estou trabalhando na **IBC - Instituto Brasileiro de Coaching**
+ <br/> :purple_heart: &nbsp; Aprendendo sobre React pra implementar no Front-end
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Esportes e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-luiz97/)](https://www.linkedin.com/in/sandro-luiz97/) 
+| 
+
