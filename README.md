@@ -7,9 +7,9 @@ Sou um Web Designer :computer:
 Aprendiz de Desenvolvedor FullStack :telescope:
 
  :high_brightness:  &nbsp; Estou trabalhando no **IBC - Instituto Brasileiro de Coaching**
- <br/> :purple_heart: &nbsp; Aprendendo sobre React pra implementar no Front-end
+ <br/> :purple_heart: &nbsp; Aprendendo sobre ES6+, ReactJS, React Native Node.js pra implementar nas aplicações
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: PHP, JavaScript, jQuery, ES6+, ReactJS, Node.js
+ <br/> :computer: &nbsp; Minha stack: PHP, JavaScript, jQuery
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Esportes e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-SandroLuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandro-luiz97/)](https://www.linkedin.com/in/sandro-luiz97/) 
 
