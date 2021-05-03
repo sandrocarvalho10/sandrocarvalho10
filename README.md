@@ -3,8 +3,8 @@
 ## Olá pessoal 👋
 
 Sou apaixonado por aprender.
-Sou um Web Designer :computer:
-Aprendiz de Desenvolvedor FullStack :telescope:
+Sou um Web Developer :computer:
+Desenvolvedor FullStack :telescope:
 
  :high_brightness:  &nbsp; Atualmente prestando serviço para o **IBC - Instituto Brasileiro de Coaching**
  <br/> :purple_heart: &nbsp; Aprendendo sobre ES6+, ReactJS, React Native Node.js pra implementar nas aplicações
