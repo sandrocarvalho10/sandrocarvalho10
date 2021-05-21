@@ -6,7 +6,7 @@ Sou apaixonado por aprender.
 Sou um Web Developer :computer:
 Desenvolvedor FullStack :telescope:
 
- :high_brightness:  &nbsp; Atualmente prestando serviço para o **IBC - Instituto Brasileiro de Coaching**
+ :high_brightness:  &nbsp; Atualmente prestando serviço para o **HVEX - High Voltage Equipments**
  <br/> :purple_heart: &nbsp; Aprendendo sobre ES6+, ReactJS, React Native Node.js pra implementar nas aplicações
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: PHP, JavaScript, jQuery
